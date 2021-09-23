@@ -3,7 +3,7 @@
 세상 말을 우리 멍청한 솔브의 언어로 변환해주는 장치입니다!
 무려 쓸모짝도없는 c#으로 만들었습니다.
 
-tica님이 만든 솔브언어 (https://gist.github.com/thoratica/77d7ddfa039297d0aefeb8599aac409f)를
+tica님이 만든 솔브언어 (https://gist.github.com/thoratica/77d7ddfa039297d0aefeb8599aac409f )를
 보고 감명받아서(?) 만들게 되었습니다.
 
 ## 띠까님이 만든거랑 호환 안되는데요?
@@ -14,3 +14,7 @@ tica님이 만든 솔브언어 (https://gist.github.com/thoratica/77d7ddfa039297
 
 어쩌라고
 cmd 인코딩 문제일수도 있으니까 powershell 쓰셈 ㅋ
+
+## 꼽네요
+
+꼬우면 띠까님이 만든 솔브언어 쓰세요, 내가 생각해도 그지같이 만듬
