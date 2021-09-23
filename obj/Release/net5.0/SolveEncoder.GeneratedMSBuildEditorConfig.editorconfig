@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SolveEncoder
-build_property.ProjectDir = C:\Users\박대호\source\repos\614project\SolveEncoder\
+build_property.ProjectDir = C:\Users\박대호\Source\Repos\614project\SolveEncoder\

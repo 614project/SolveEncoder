@@ -11,13 +11,16 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SolveEncoder")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("614project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("614project")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("원하는 말을 솔브바보로 표현할수 있는 멋진 기능입니다!")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolveEncoder")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SolveEncoder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("솔브언어변환기")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/614project/SolveEncoder")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 

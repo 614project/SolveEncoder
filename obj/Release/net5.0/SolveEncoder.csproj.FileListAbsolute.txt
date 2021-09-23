@@ -1,0 +1,17 @@
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.exe
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.deps.json
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.runtimeconfig.json
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.runtimeconfig.dev.json
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.dll
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\ref\솔브언어변환기.dll
+C:\Users\박대호\source\repos\614project\SolveEncoder\bin\Release\net5.0\솔브언어변환기.pdb
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.csproj.AssemblyReference.cache
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.AssemblyInfoInputs.cache
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.AssemblyInfo.cs
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.csproj.CoreCompileInputs.cache
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.csproj.Fody.CopyLocal.cache
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\솔브언어변환기.dll
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\ref\솔브언어변환기.dll
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\솔브언어변환기.pdb
+C:\Users\박대호\source\repos\614project\SolveEncoder\obj\Release\net5.0\SolveEncoder.genruntimeconfig.cache
