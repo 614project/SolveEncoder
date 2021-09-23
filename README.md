@@ -13,3 +13,4 @@ tica님이 만든 솔브언어 (https://gist.github.com/thoratica/77d7ddfa039297
 ## 아니 솔브어로 바궜다가 다시 바꿨는데 깨져서 나오는데요?
 
 어쩌라고
+cmd 인코딩 문제일수도 있으니까 powershell 쓰셈 ㅋ
